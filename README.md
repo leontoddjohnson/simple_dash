@@ -1,6 +1,6 @@
 # a simple dash app
 
-Using Railway with a SQL database, and setting up Render. In this tutorial, we'll discuss setting up an app in both Railway and Render, but since Render charges for SQL past 90-days, we will use Railway as the main example platform.
+In this tutorial, we'll discuss setting up a simple app in both Railway and Render, but since Render charges for SQL past 90-days, we will use Railway as the main example platform.
 
 ## a few things
 
